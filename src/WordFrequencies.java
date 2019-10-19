@@ -25,6 +25,17 @@ public class WordFrequencies {
             }
         }
     }
+    public int findIndexOfMax(){
+        int max=0;
+        int maxindex=0;
+        for(int k=0;k<myFreqs.size();k++){
+            if(myFreqs.get(k)> max){
+                max=myFreqs.get(k);
+                maxindex = k;
+            }
+        }
+        return maxindex;
+    }
     public static void main(String args[]){
         WordFrequencies a = new WordFrequencies();
         a.findUnique();
@@ -32,6 +43,8 @@ public class WordFrequencies {
         for(int k=0;k<a.mywords.size();k++){
             System.out.println(a.myFreqs.get(k)+"\t"+a.mywords.get(k));
         }
+        int maxindex = a.findIndexOfMax();
+        System.out.println("THe word that occurs most often and its count are: "+a.mywords.get(maxindex)+" "+a.myFreqs.get(maxindex));
     }
 
 

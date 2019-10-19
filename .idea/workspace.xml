@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da3c21b9-4928-430c-bb52-9dab6bfa9bdf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/romeo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WordFrequencies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/courserajava.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/likeit.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/macbeth.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/macbethSmall.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MacbethCharacterNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordsWithArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_code/WordFrequencies.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_code/WordFrequencies.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WordFrequencies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WordFrequencies.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +50,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MacbethCharacterNames">
+    <configuration name="MacbethCharacterNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MacbethCharacterNames" />
+      <module name="java_code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Telling-a-random-story" type="Java Scratch">
       <option name="MAIN_CLASS_NAME" value="WordFrequencies" />
       <module name="java_code" />
@@ -62,6 +72,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MacbethCharacterNames" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
