@@ -2,14 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da3c21b9-4928-430c-bb52-9dab6bfa9bdf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/likeit.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/macbeth.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/macbethSmall.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MacbethCharacterNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WordsWithArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/adjective.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/animal.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/color.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/confucius.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/country.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fruit.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/madtemplate.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/madtemplate2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/madtemplate3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/name.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/noun.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/timeframe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/verb.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datalong/adjective.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datalong/animal.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datalong/color.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datalong/country.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datalong/fruit.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datalong/madtemplate.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datalong/madtemplate2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datalong/madtemplate3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datalong/name.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datalong/noun.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datalong/timeframe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datalong/verb.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GladLibsUsingHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordFrequencyUsingHashMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_code/WordFrequencies.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_code/WordFrequencies.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WordFrequencies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WordFrequencies.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,9 +70,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MacbethCharacterNames">
+  <component name="RunManager" selected="Application.GladLibsUsingHashMap">
+    <configuration name="GladLib" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GladLib" />
+      <module name="java_code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GladLibsUsingHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GladLibsUsingHashMap" />
+      <module name="java_code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MacbethCharacterNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MacbethCharacterNames" />
+      <module name="java_code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordFrequencyUsingHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordFrequencyUsingHashMap" />
       <module name="java_code" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,6 +115,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GladLibsUsingHashMap" />
+        <item itemvalue="Application.WordFrequencyUsingHashMap" />
+        <item itemvalue="Application.GladLib" />
         <item itemvalue="Application.MacbethCharacterNames" />
       </list>
     </recent_temporary>
